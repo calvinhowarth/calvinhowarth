@@ -1,7 +1,7 @@
 I am Calvin, a student at Oregon State University studying mathematics and data science. I have always been interested in math and computer science, and data science is a way for me to combine those interests.
 
-##Skills
-###Languages
+## Skills
+### Languages
 - Rust
 - Python
 - R
